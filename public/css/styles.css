@@ -1,0 +1,236 @@
+
+.footer-icon{
+    width: 30%;
+    text-align: center;
+}
+/*margin for the icons in the footer*/
+.bottom{
+ margin-left: 7%;
+}
+.resizecontainer{
+    width: 100%;
+    padding-left: 90px;
+    margin-top: -20px;
+}
+
+#intro { 
+    background: url(../images/tree_bark.png) 50% 0 fixed; 
+    height: 800px;  
+    margin: 0 auto; 
+    width: 100%; 
+    position: relative; 
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+    padding: 50px 0 10px 10%;
+}
+#home { 
+    background: url(../images/dark_embroidery.png) 50% 0 fixed; 
+    height: 800px;  
+    margin: 0 auto; 
+    width: 100%; 
+    position: relative; 
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+    padding: 200px 0;
+}
+.jumbotron{ 
+    background: url(../images/Retro-pattern-background-3.jpg) 50% 0 fixed; 
+    height: auto;
+    width: 100%; 
+    position: relative; 
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+    color: #000;
+    text-align: center;
+}
+#about { 
+    background: url(../images/skulls.png) 50% 0 fixed; 
+    height: auto;
+    margin: 0 auto; 
+    width: 100%; 
+    position: relative; 
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+    padding: 100px 0;
+    color: #5c7782;
+}
+.box1{
+    height: 650px;
+    width:100%;
+    
+}
+.box2{
+    height: 250px;
+    width:100%;
+    
+}
+.box3{
+    height: 250px;
+    width:100%;
+    background-color:green;
+}
+.navbar-nav>li>a{
+    color:#5c7782;
+}
+.slogan{
+   color:#5c7782;
+   text-align:center; 
+   margin-top: 50px;
+}
+.navbar{
+    max-width: 90px;
+}
+.navbar-nav>li {
+     color:#5c7782;
+     float: none; 
+}
+.navbar-inverse .navbar-toggle .icon-bar {
+    background-color: #fff;
+    margin-left: 33%;
+}
+.container-fluid>.navbar-collapse, .container-fluid>.navbar-header, .container>.navbar-collapse, .container>.navbar-header {
+    margin-right: -15px;
+    margin-left: -22px;
+    /* border: 0px; */
+    line-height: 1px;
+}
+.navbar-inverse .navbar-toggle {
+    border-color: #333;
+    width: 100%;
+}
+.navbar-nav {
+    margin: 101.5px -9px;
+    font-size: 1.1em;
+}
+.container-fluid>.navbar-collapse, .container-fluid>.navbar-header, .container>.navbar-collapse, .container>.navbar-header {
+     margin-right: 0px; 
+     margin-left: 0px; 
+     border: 0px; 
+    line-height: 1px;
+}
+//FOOTER styles
+
+
+/* Queries*/
+@media(max-width: 709px){
+.nav>li>a {
+    position: relative;
+    display: block;
+    padding: 10px 0px;
+}
+}
+
+h1{
+    font-size: 2.2em;
+    text-align: center;
+    color: white;
+}
+/*======= nav bar styling =========*/
+.navbar{
+    max-width: 90px;
+    position: fixed;
+    top: 0;
+}
+.navbar-nav>li {
+     float: none; 
+}
+.navbar-inverse .navbar-toggle .icon-bar {
+    background-color: #fff;
+    margin-left: 33%;
+}
+.container-fluid>.navbar-collapse, .container-fluid>.navbar-header, .container>.navbar-collapse, .container>.navbar-header {
+    margin-right: -15px;
+    margin-left: -22px;
+    line-height: 1px;
+}
+.navbar-inverse .navbar-toggle {
+    border-color: #333;
+    width: 100%;
+}
+.navbar-nav {
+    margin: 40px -9px;
+    font-size: 1.1em;
+}
+.container-fluid>.navbar-collapse, .container-fluid>.navbar-header, .container>.navbar-collapse, .container>.navbar-header {
+    margin-right: 0px; 
+    margin-left: 0px; 
+    border: 0px;
+    line-height: 1px;
+}
+/*============= start of resize of the container =======*/
+.resizeContainer {
+    width: 100%;
+    margin-top: -20px;
+    position: relative;
+    
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: #5c7782;
+    font-size: 1.1em;
+    font-variant: small-caps;
+}
+/*#logo {
+   
+    z-index: 100;
+    top: 60px;
+    left: 10%;
+}*/
+/*================== media querries start============== */    
+@media(max-width: 821px){
+   /* #logo{
+        position: absolute;        
+        top: 60px;
+        left: 20%;
+    }*/
+    .footer-icon{
+    width: 70%;
+    text-align: center;
+}
+
+}
+/*======== tablets all sizes ==========*/
+@media(max-width: 709px){
+h1{
+    text-align: left;
+    margin-left: 3%;
+    }
+.nav>li>a {
+    position: relative;
+    display: block;
+    padding: 10px 0px;
+    }
+/*#logo{
+    width: 80%;
+    top: 120px;
+    left: 20px;
+    margin-left: 20px;
+    }*/
+.footer-icon{
+    width: 80%;
+}
+
+}
+
+/*============ landscape styles for iphone 6-5 =============*/
+@media only screen 
+and (min-device-width : 375px) 
+and (max-device-width : 667px) 
+and (orientation : landscape) {
+   /* #logo {
+        position: fixed; 
+        z-index: 100;
+        top: 55px;
+        left: 35%;
+        width: 35%;
+    }*/
+    /*====== stretch navbar 100% screen height ====== */
+    .navbar-inverse {
+    font-size: 1.1em;
+    height: 100%;
+}
+
+}
+@media(max-width: 450px){
+.navbar{
+    height: 0%;
+    font-size: 1.5em;
+    line-height: 1;
+    color: black;
+}
+}
