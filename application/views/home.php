@@ -2,14 +2,13 @@
 <!-- Section 1 -->
 <section id="intro" data-speed="6" data-type="background">
     <div class="container">
-            <!-- <div class="row">
-                <div class="col-md-6 span8 offset2 centering">
-                    
-                </div>        
-            </div> -->
-            <div class="row text-center">
+            <div class="row text-center fade-in one">
                 <img src="/public/images/JDlogoblue.png" class="logo1 img-responsive">
-                <h1 class="slogan">Web Developer/Front end Designer</h1>
+            </div>
+            <div class="row text-center">
+              <div class="fade-in two">
+                <h1 class="slogan fade-in two">Web Developer/Front end Designer</h1>
+              </div>
             </div>
     </div>
 </section>
