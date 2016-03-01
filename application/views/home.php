@@ -2,12 +2,13 @@
 <!-- Section 1 -->
 <section id="intro" data-speed="6" data-type="background">
     <div class="container">
-            <div class="row">
+            <!-- <div class="row">
                 <div class="col-md-6 span8 offset2 centering">
-                    <img src="/public/images/JDlogoblue.png" class="logo1 img-responsive">
+                    
                 </div>        
-            </div>
+            </div> -->
             <div class="row text-center">
+                <img src="/public/images/JDlogoblue.png" class="logo1 img-responsive">
                 <h1 class="slogan">Web Developer/Front end Designer</h1>
             </div>
     </div>
