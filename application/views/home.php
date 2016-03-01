@@ -7,7 +7,7 @@
                     <img src="/public/images/JDlogoblue.png" class="img-responsive">
                 </div>        
             </div>
-            <div class="row">
+            <div class="row text-center">
                 <h1 class="slogan">Web Developer/Front end Designer</h1>
             </div>
     </div>
