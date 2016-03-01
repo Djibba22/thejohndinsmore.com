@@ -3,7 +3,7 @@
 <section id="intro" data-speed="6" data-type="background">
     <div class="container">
             <div class="row">
-                <div class="col-md-6 span8 offset2">
+                <div class="col-md-6 span8 offset2 centering">
                     <img src="/public/images/JDlogoblue.png" class="logo1 img-responsive">
                 </div>        
             </div>
