@@ -14,16 +14,17 @@
 }
 
 #intro { 
-    background: url(../images/tree_bark.png) 50% 0 fixed; 
+    background: url(../images/dark_embroidery.png) 50% 0 fixed; 
     height: 800px;  
     margin: 0 auto; 
     width: 100%; 
     position: relative; 
     box-shadow: 0 0 50px rgba(0,0,0,0.8);
     padding: 50px 0 10px 10%;
+    
 }
 #home { 
-    background: url(../images/dark_embroidery.png) 50% 0 fixed; 
+    background: url(../images/tree_bark.png) 50% 0 fixed; 
     height: 800px;  
     margin: 0 auto; 
     width: 100%; 
