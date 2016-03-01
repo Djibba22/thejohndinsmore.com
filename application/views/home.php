@@ -2,16 +2,14 @@
 <!-- Section 1 -->
 <section id="intro" data-speed="6" data-type="background">
     <div class="container">
-        <div class="">
-            <div class="row">
-                <h1 class="slogan">Web Developer/Front end Designer</h1>
-            </div>
             <div class="row">
                 <div class="col-md-6 col-lg-8">
                     <img src="/public/images/JDlogoblue.png" class="img-responsive">
                 </div>        
             </div>
-    </div>
+            <div class="row">
+                <h1 class="slogan">Web Developer/Front end Designer</h1>
+            </div>
     </div>
 </section>
 <!-- Section 2 -->
