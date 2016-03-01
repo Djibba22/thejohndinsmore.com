@@ -9,9 +9,6 @@
             <div class="row">
                 <div class="col-md-6 col-lg-8">
                     <img src="/public/images/JDlogoblue.png" class="img-responsive">
-                </div>
-                <div class="col-md-2 col-lg-4">
-                    <img src="/public/images/meinthealoe.jpg" class="img-responsive img-circle">
                 </div>        
             </div>
     </div>
@@ -21,6 +18,9 @@
 <section id="home" data-speed="4" data-type="background">
     <div class="container">
         <div class="box2">
+          <div class="col-md-2 col-lg-4">
+                    <img src="/public/images/meinthealoe.jpg" class="img-responsive img-circle">
+                </div>
             <div class="jumbotron">
               <h1 class="jumbotron">Web is what I do</h1>
               <p>Check out this project</p>
