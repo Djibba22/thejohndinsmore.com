@@ -171,12 +171,7 @@ h1{
     font-size: 1.1em;
     font-variant: small-caps;
 }
-/*#logo {
-   
-    z-index: 100;
-    top: 60px;
-    left: 10%;
-}*/
+
 /*================== media querries start============== */    
 @media(max-width: 821px){
    /* #logo{
@@ -201,12 +196,7 @@ h1{
     display: block;
     padding: 10px 0px;
     }
-/*#logo{
-    width: 80%;
-    top: 120px;
-    left: 20px;
-    margin-left: 20px;
-    }*/
+
 .footer-icon{
     width: 80%;
 }
@@ -218,13 +208,7 @@ h1{
 and (min-device-width : 375px) 
 and (max-device-width : 667px) 
 and (orientation : landscape) {
-   /* #logo {
-        position: fixed; 
-        z-index: 100;
-        top: 55px;
-        left: 35%;
-        width: 35%;
-    }*/
+  
     /*====== stretch navbar 100% screen height ====== */
     .navbar-inverse {
     font-size: 1.1em;
