@@ -4,7 +4,7 @@
     <div class="container">
             <div class="row">
                 <div class="col-md-6 col-lg-8">
-                    <img src="/public/images/JDlogoblue.png" class="img-responsive">
+                    <img src="/public/images/JDlogoblue.png" class="logo1 img-responsive">
                 </div>        
             </div>
             <div class="row text-center">

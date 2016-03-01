@@ -12,6 +12,9 @@
     padding-left: 90px;
     margin-top: -20px;
 }
+.img.logo1{
+    margin-right: 0; 
+}
 
 #intro { 
     background: url(../images/dark_embroidery.png) 50% 0 fixed; 
@@ -21,7 +24,7 @@
     position: relative; 
     box-shadow: 0 0 50px rgba(0,0,0,0.8);
     padding: 50px 0 10px 10%;
-    
+
 }
 #home { 
     background: url(../images/tree_bark.png) 50% 0 fixed; 
@@ -74,6 +77,8 @@
    text-align:center; 
    margin-top: 50px;
 }
+/*###########======  navigation styles =====################*/
+/*###########            ===styles=====      ################*/
 .navbar{
     max-width: 90px;
 }
@@ -105,7 +110,7 @@
      border: 0px; 
     line-height: 1px;
 }
-//FOOTER styles
+
 
 
 /* Queries*/
