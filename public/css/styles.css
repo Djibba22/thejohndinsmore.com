@@ -153,7 +153,7 @@ img.logo1{
 }
 /*contact page styles*/
 .well{
-    height: 400px;
+    height: 600px;
     margin: 200px auto;
     border: none;
 }
@@ -162,9 +162,7 @@ img.logo1{
     background-size: 100%;
     background-repeat: no-repeat;
 }
-.conversion{
-    height: 400px;
-}
+
 
 /* Queries*/
 @media(max-width: 709px){
