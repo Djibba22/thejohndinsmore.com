@@ -7,6 +7,16 @@
 .bottom{
  margin-left: 7%;
 }
+ .header {
+        color: #36A0FF;
+        font-size: 27px;
+        padding: 10px;
+    }
+
+    .bigicon {
+        font-size: 35px;
+        color: #36A0FF;
+}
 .resizecontainer{
     width: 100%;
     padding-left: 90px;
