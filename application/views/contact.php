@@ -1,5 +1,5 @@
 
-	<div class="contactContainer">
+	
     <div class="row">
         <div class="col-md-12 contactContainer">
             <div class="well well-sm">
@@ -51,6 +51,6 @@
             </div>
         </div>
     </div>
-</div>
+
 
 
