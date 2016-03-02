@@ -156,6 +156,7 @@ img.logo1{
     height: 600px;
     margin: 200px auto;
     border: none;
+    opacity: 0;
 }
 .contactContainer{
     background-image: url(../images/4Bikes.jpg);
