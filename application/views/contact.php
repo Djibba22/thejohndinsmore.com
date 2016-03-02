@@ -1,7 +1,7 @@
 
 	
     <div class="row">
-        <div class="col-md-12 ">
+        <div class="col-md-12 contactContainer">
             <div class="well well-sm contactContainer">
                 <form class="form-horizontal" method="post">
                     <fieldset>
