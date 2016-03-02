@@ -49,10 +49,11 @@
                     </fieldset>
                 </form>
             </div>
-        </div>
-        <div class="conversion">
+             <div class="conversion">
         		<p>Thank you</p>
+        	</div>
         </div>
+       
     </div>
 
 
