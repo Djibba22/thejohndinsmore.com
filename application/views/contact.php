@@ -50,6 +50,9 @@
                 </form>
             </div>
         </div>
+        <div class="conversion">
+        		<p>Thank you</p>
+        </div>
     </div>
 
 
