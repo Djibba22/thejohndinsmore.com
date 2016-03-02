@@ -155,6 +155,8 @@ img.logo1{
 
 .contactContainer{
     background-image: url(../images/4Bikes.jpg);
+    background-size: 800px 600px;
+    background-repeat: no-repeat;
 }
 
 /* Queries*/
