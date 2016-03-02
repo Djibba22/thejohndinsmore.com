@@ -1,5 +1,8 @@
 
 	<div class="container">
+		<div class="centered">
+			<img src="/public/images/4Bikes.jpg">
+		</div>
     <div class="row">
         <div class="col-md-12">
             <div class="well well-sm">
