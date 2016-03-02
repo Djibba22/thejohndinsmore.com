@@ -1,8 +1,8 @@
 
 	
     <div class="row">
-        <div class="col-md-12 contactContainer">
-            <div class="well well-sm">
+        <div class="col-md-12 ">
+            <div class="well well-sm contactContainer">
                 <form class="form-horizontal" method="post">
                     <fieldset>
                         <legend class="text-center header">Please Contact me</legend>
