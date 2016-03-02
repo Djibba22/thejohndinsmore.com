@@ -152,7 +152,10 @@ img.logo1{
     line-height: 1px;
 }
 /*contact page styles*/
-
+.fieldset{
+    margin: 200px 0%;
+    border: none;
+}
 .contactContainer{
     background-image: url(../images/4Bikes.jpg);
     background-size: 100%;
