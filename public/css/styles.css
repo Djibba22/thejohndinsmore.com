@@ -151,8 +151,11 @@ img.logo1{
      border: 0px; 
     line-height: 1px;
 }
+/*contact page styles*/
 
-
+.contactContainer{
+    background-image: url(../images/4Bikes.jpg);
+}
 
 /* Queries*/
 @media(max-width: 709px){
