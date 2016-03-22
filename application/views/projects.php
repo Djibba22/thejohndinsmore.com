@@ -13,7 +13,7 @@
             <div class="modal-content">
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
               <div class="modal-body">
-                <img src="/public/images/meinthealoe.jpg">
+                <img src="http://placemi.com/i3xhd/1000x750">
               </div>
                 <div class="col-md-12 description">
                   <h4>This is the first one on my Gallery</h4>

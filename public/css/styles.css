@@ -205,9 +205,7 @@ h1{
     margin-right: -15px;
     margin-left: -22px;
     line-height: 1px;
-}
-.navbar-collapse{
-    width:100px;
+    max-width:100px;
 }
 .navbar-inverse .navbar-toggle {
     border-color: #333;
