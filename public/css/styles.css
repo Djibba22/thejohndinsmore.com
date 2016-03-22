@@ -70,7 +70,9 @@ img.logo1{
 
 }
 #home { 
-    background: url(../images/tree_bark.png) 50% 0 fixed; 
+    background: url(../images/outside_dev.jpg) fixed;
+    background-repeat: none;
+    background-size: 100% 100%; 
     height: 800px;  
     margin: 0 auto; 
     width: 100%; 
