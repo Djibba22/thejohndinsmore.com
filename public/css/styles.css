@@ -60,7 +60,7 @@ img.logo1{
 #intro { 
     background: url(../images/bogus1.jpg) fixed;
     background-repeat: none;
-    background-size: 100% 100%; 
+    background-size: 100% auto; 
     height: 800px;  
     margin: 0 auto; 
     width: 100%; 
@@ -72,7 +72,7 @@ img.logo1{
 #home { 
     background: url(../images/outside_dev.jpg) fixed;
     background-repeat: none;
-    background-size: 100% 100%; 
+    background-size: 100% auto; 
     height: 800px;  
     margin: 0 auto; 
     width: 100%; 
