@@ -89,6 +89,7 @@ img.logo1{
 }
 .bio_block{
     background-color: white;
+    height:500px;
 }
 #about { 
     background: url(../images/skulls.png) 50% 0 fixed; 
