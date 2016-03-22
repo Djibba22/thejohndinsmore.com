@@ -6,14 +6,14 @@
     <div class="col-md-8 col-sm-12 co-xs-12 gal-item">
       <div class="box">
         <a href="#" data-toggle="modal" data-target="#1">
-          <img src="http://placemi.com/i3xhd/1000x750">
+          <img src="/public/images/meinthealoe.jpg">
         </a>
         <div class="modal fade" id="1" tabindex="-1" role="dialog">
           <div class="modal-dialog" role="document">
             <div class="modal-content">
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
               <div class="modal-body">
-                <img src="http://placemi.com/i3xhd/1000x750">
+                <img src="/public/images/meinthealoe.jpg">
               </div>
                 <div class="col-md-12 description">
                   <h4>This is the first one on my Gallery</h4>

@@ -255,8 +255,8 @@ h1{
     outline: none;
 }
 .gal-item a:after{
-    content:"\e003";
-    font-family: 'Glyphicons Halflings';
+    content:"glyphicon glyphicon-zoom-in";
+    
     opacity: 0;
     background-color: rgba(0, 0, 0, 0.75);
     position: absolute;
@@ -361,16 +361,7 @@ h1{
 i.red{
     color:#BC0213;
 }
-.gal-container{
-    padding-top :75px;
-    padding-bottom:75px;
-}
-.gal-footer{
-    font-family: 'Quicksand', sans-serif;
-}
-.gal-footer a,.gal-footer a:hover{
-    color: #88C425;
-}
+
 
 /*================== media querries start============== */    
 @media(max-width: 821px){
