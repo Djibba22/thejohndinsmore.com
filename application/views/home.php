@@ -17,11 +17,12 @@
     <div class="container">
       <div class="box2">  
         <div class="jumbotron">
-            <div class="col-sm-4 col-md-4">
+            <div class="col-sm-2 col-md-4">
               <img src="/public/images/meinthealoe.jpg" class="img-responsive img-circle">
              </div>
-             <div class="bio_block col-sm-6 col-md-6">
-               
+             <div class="bio_block col-sm-8 col-md-6">
+               <p>"I love to build things. I inherited my mothers laugh plus my fathers work ethic but my dreams are all my own"</p>
+               <h3>- JOHN DINSMORE</h3>
             </div>
           </div>
         </div>
