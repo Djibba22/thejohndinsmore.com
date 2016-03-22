@@ -58,7 +58,8 @@ img.logo1{
 }
 
 #intro { 
-    background: url(../images/bogus1.jpg); 
+    background: url(../images/bogus1.jpg) fixed;
+    background-size: contain; 
     height: 800px;  
     margin: 0 auto; 
     width: 100%; 
