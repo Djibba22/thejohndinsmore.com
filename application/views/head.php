@@ -10,6 +10,7 @@
    <link href="public/css/bootstrap.css" rel="stylesheet">
    <link href="public/css/styles.css" rel="stylesheet">
    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Tangerine">
+   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 
    <!-- jquery put in header so we can run page specific js in views -->
     <!-- This was actually the pain  -->
