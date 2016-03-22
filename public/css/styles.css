@@ -201,12 +201,15 @@ h1{
     background-color: #fff;
     margin-left: 33%;
 }
-.container-fluid>.navbar-collapse, .container-fluid>.navbar-header, .container>.navbar-collapse, .container>.navbar-header {
+.nav-container-fluid>.navbar-collapse, .nav-container-fluid>.navbar-header, .nav-container>.navbar-collapse, .nav-container>.navbar-header {
     margin-right: -15px;
     margin-left: -22px;
-    line-height: 1px;
+    line-height: 1px;    
+}
+.nav-container{
     max-width:100px;
 }
+
 .navbar-inverse .navbar-toggle {
     border-color: #333;
     width: 100%;

@@ -1,5 +1,5 @@
 <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
-   <div class="container">
+   <div class="nav-container">
       <!-- <img src="public/img/logo.png"></img> -->
      <div class="navbar-header">
        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
