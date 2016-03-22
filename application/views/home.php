@@ -20,8 +20,8 @@
               <img src="/public/images/meinthealoe.jpg" class="img-responsive img-circle">
              </div>
              <div class="bio_block col-sm-8 col-md-6">
-               <p>"I love to build things. I inherited my mothers laugh plus my fathers work ethic but my dreams are all my own"</p>
-               <h3>- JOHN DINSMORE</h3>
+               <h3>"I love to build things. I inherited my mothers laugh plus my fathers work ethic but my dreams are all my own"</h3>
+               <h2>- JOHN DINSMORE</h2>
              </div>
           </div>
     </div>
