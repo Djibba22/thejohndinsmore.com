@@ -17,7 +17,12 @@
     <div class="container">
         <div class="box2">  
             <div class="jumbotron">
+              <div class="col-sm-4 col-md-4">
               <img src="/public/images/meinthealoe.jpg" class="img-responsive img-circle">
+             </div>
+             <div class="bio_block col-sm-6 col-md-6">
+               
+             </div>
             </div>
         </div>
     </div>
