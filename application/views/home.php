@@ -15,7 +15,7 @@
 <!-- Section 2 -->
 <section id="home" data-speed="4" data-type="background">
     <div class="container">
-        <div class="box2">
+        <!-- <div class="box2">
           <div class="col-md-2 col-lg-4">
                     <img src="/public/images/meinthealoe.jpg" class="img-responsive img-circle">
                 </div>
@@ -24,7 +24,7 @@
               <p>Check out this project</p>
               <p><a class="btn btn-primary btn-lg" href="#" role="button">Wormburner</a></p>
             </div>
-        </div>
+        </div> -->
     </div>
 </section>
 <!-- Section 3 -->
