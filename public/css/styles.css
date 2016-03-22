@@ -206,6 +206,9 @@ h1{
     margin-left: -22px;
     line-height: 1px;
 }
+.navbar-collapse{
+    width:100px;
+}
 .navbar-inverse .navbar-toggle {
     border-color: #333;
     width: 100%;
@@ -255,8 +258,6 @@ h1{
     outline: none;
 }
 .gal-item a:after{
-    content:"glyphicon glyphicon-zoom-in";
-    
     opacity: 0;
     background-color: rgba(0, 0, 0, 0.75);
     position: absolute;
