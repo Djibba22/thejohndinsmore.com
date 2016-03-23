@@ -6,7 +6,7 @@
                 <img src="/public/images/JDlogoblue.png" class="logo1 img-responsive">
             </div>
             <div class="row text-center">
-              <div class="proj-titlebox">
+              <div class="home-titlebox">
                 <h1 class="slogan">WEB DEVELOPER | GRAPHIC ARTIST</h1>
               </div>
             </div>

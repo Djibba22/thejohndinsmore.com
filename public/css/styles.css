@@ -130,6 +130,11 @@ img.logo1{
    text-align:center; 
    margin-top: 50px;
 }
+.home-titlebox{
+    width:75%;
+    border: 1px solid #5c7782;
+    padding:10px;
+}
 /*###########======  navigation styles =====################*/
 /*###########            ===styles=====      ################*/
 .navbar{
