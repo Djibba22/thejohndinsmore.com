@@ -4,7 +4,9 @@
 <section>
 	<div class="row">
 		<div class="col-12-lg text-center">
-		  <h1 class="proj-title">Project Gallery</h1>
+		 <div class="proj-title">
+		   <h1>PROJECT GALLERY</h1>
+		 </div>
 		</div>
 	</div>
   <div class="container gal-container">

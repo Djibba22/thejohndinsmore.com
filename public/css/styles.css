@@ -242,6 +242,9 @@ h1{
 /*###########======  Project Page =====################*/
 /*###########            ===styles=====      ################*/
 .proj-title{
+    margin-top: 50px;
+    border: 1px solid #5c7782;
+    padding:10px;
     color:#5c7782;
 }
 .gal-container{
