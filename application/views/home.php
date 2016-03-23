@@ -6,7 +6,7 @@
                 <img src="/public/images/JDlogoblue.png" class="logo1 img-responsive">
             </div>      
     </div>
-     <div class="row text-center">
+     <div class="row text-center fade-in two">
         <div class="home-titlebox">
           <h1 class="slogan">WEB DEVELOPER | GRAPHIC ARTIST</h1>
         </div>
