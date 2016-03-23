@@ -4,8 +4,8 @@
 <section>
 	<div class="row">
 		<div class="col-12-lg text-center">
-		 <div class="proj-title">
-		   <h1>PROJECT GALLERY</h1>
+		 <div class="proj-titlebox">
+		   <h1 class="proj-title">PROJECT GALLERY</h1>
 		 </div>
 		</div>
 	</div>
