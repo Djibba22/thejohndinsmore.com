@@ -53,17 +53,17 @@
     <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
       <div class="box">
         <a href="#" data-toggle="modal" data-target="#3">
-          <img src="/public/images/App_proto.jpg">
+          <img src="/public/images/JD_GD.jpg">
         </a>
         <div class="modal fade" id="3" tabindex="-1" role="dialog">
           <div class="modal-dialog" role="document">
             <div class="modal-content">
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
               <div class="modal-body">
-                <img src="/public/images/App_proto.jpg">
+                <img src="/public/images/JD_GD.jpg">
               </div>
                 <div class="col-md-12 description">
-                  <h4>This is a prototype of an Application, I created the logo and the layout</h4>
+                  <h4>An old Business Card</h4>
                 </div>
             </div>
           </div>
@@ -224,17 +224,17 @@
     <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
       <div class="box">
         <a href="#" data-toggle="modal" data-target="#11">
-          <img src="http://placemi.com/vnatq/1000x750">
+          <img src="/public/images/App_proto.jpg">
         </a>
         <div class="modal fade" id="11" tabindex="-1" role="dialog">
           <div class="modal-dialog" role="document">
             <div class="modal-content">
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
               <div class="modal-body">
-                <img src="http://placemi.com/vnatq/1000x750">
+                <img src="/public/images/App_proto.jpg">
               </div>
                 <div class="col-md-12 description">
-                  <h4>This is the leventh one on my Gallery</h4>
+                  <h4>Protoype Layout</h4>
                 </div>
             </div>
           </div>
@@ -244,17 +244,17 @@
     <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
       <div class="box">
         <a href="#" data-toggle="modal" data-target="#12">
-          <img src="http://placemi.com/wbjov/1000x750">
+          <img src="/public/images/Wormburner2.png">
         </a>
         <div class="modal fade" id="12" tabindex="-1" role="dialog">
           <div class="modal-dialog" role="document">
             <div class="modal-content">
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
               <div class="modal-body">
-                <img src="http://placemi.com/wbjov/1000x750">
+                <img src="/public/images/Wormburner2.png">
               </div>
                 <div class="col-md-12 description">
-                  <h4>This is the 12th one on my Gallery</h4>
+                  <h4>Angular, Firebase, Node.js application for Locating golf courses and Keeping Score</h4>
                 </div>
             </div>
           </div>
