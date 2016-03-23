@@ -66,7 +66,7 @@ img.logo1{
     width: 100%; 
     position: relative; 
     box-shadow: 0 0 50px rgba(0,0,0,0.8);
-    padding: 50px 0 10px 10%;
+    padding: 50px 0 10px 0;
 
 }
 #home { 
@@ -128,7 +128,6 @@ img.logo1{
 .slogan{
    color:steelblue;
    text-align:center; 
-   margin-top: 50px;
 }
 .home-titlebox{
     width:75%;
