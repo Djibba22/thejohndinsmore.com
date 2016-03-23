@@ -284,17 +284,17 @@
     <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
       <div class="box">
         <a href="#" data-toggle="modal" data-target="#14">
-          <img src="http://placemi.com/i8yd4/1000x750">
+          <img src="/public/images/PortfolioSite1.png">
         </a>
         <div class="modal fade" id="14" tabindex="-1" role="dialog">
           <div class="modal-dialog" role="document">
             <div class="modal-content">
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
               <div class="modal-body">
-                <img src="http://placemi.com/i8yd4/1000x750">
+          <img src="/public/images/PortfolioSite1.png">
               </div>
                 <div class="col-md-12 description">
-                  <h4>This is the 14th one on my Gallery</h4>
+                  <h4>This was an older version of my portfolio site using Jquery animations and Css3 transitions</h4>
                 </div>
             </div>
           </div>
@@ -304,17 +304,17 @@
     <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
       <div class="box">
         <a href="#" data-toggle="modal" data-target="#15">
-          <img src="http://placemi.com/ak6mk/1000x750">
+          <img src="/public/images/PennyPincher.png">
         </a>
         <div class="modal fade" id="15" tabindex="-1" role="dialog">
           <div class="modal-dialog" role="document">
             <div class="modal-content">
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
               <div class="modal-body">
-                <img src="http://placemi.com/ak6mk/1000x750">
+          <img src="/public/images/PennyPincher.png">
               </div>
                 <div class="col-md-12 description">
-                  <h4>This is the 15th one on my Gallery</h4>
+                  <h4>This was my first real collaborative application built in Node using the Yelp API</h4>
                 </div>
             </div>
           </div>
