@@ -33,14 +33,14 @@
     <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
       <div class="box">
         <a href="#" data-toggle="modal" data-target="#2">
-          <img src="/public/images/Tobasco.jpg">
+          <img src="/public/images/Tabasco.jpg">
         </a>
         <div class="modal fade" id="2" tabindex="-1" role="dialog">
           <div class="modal-dialog" role="document">
             <div class="modal-content">
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
               <div class="modal-body">
-                <img src="/public/images/Tobasco.jpg">
+                <img src="/public/images/Tabasco.jpg">
               </div>
                 <div class="col-md-12 description">
                   <h4>This is realistic Drawing I did in Illustrator with complex gradient meshes</h4>
