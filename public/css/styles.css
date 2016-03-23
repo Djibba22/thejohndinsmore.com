@@ -166,6 +166,10 @@ img.logo1{
 .navbar-collapse{
     background-color: #1C1C1C;
 }
+.navbar-collapse>li{
+    border-bottom: 1px solid gray;
+}
+
 /*contact page styles*/
 .well{
     height: 600px;
