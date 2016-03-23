@@ -7,7 +7,7 @@
             </div>
             <div class="row text-center">
               <div class="proj-titlebox">
-                <h1 class="proj-title">WEB DEVELOPER | GRAPHIC ARTIST</h1>
+                <h1 class="slogan">WEB DEVELOPER | GRAPHIC ARTIST</h1>
               </div>
             </div>
             
