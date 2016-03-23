@@ -173,14 +173,14 @@
     <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
       <div class="box">
         <a href="#" data-toggle="modal" data-target="#9">
-           <img src="/public/images/Walker.jpg">
+           <img src="/public/images/walker.jpg">
         </a>
         <div class="modal fade" id="9" tabindex="-1" role="dialog">
           <div class="modal-dialog" role="document">
             <div class="modal-content">
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
               <div class="modal-body">
-                 <img src="/public/images/Walker.jpg">
+                 <img src="/public/images/walker.jpg">
               </div>
                 <div class="col-md-12 description">
                   <h4>Recreational Drawing</h4>
