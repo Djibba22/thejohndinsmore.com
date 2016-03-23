@@ -13,7 +13,7 @@
     <div class="col-md-8 col-sm-12 co-xs-12 gal-item">
       <div class="box">
         <a href="#" data-toggle="modal" data-target="#1">
-          <img src="/public/images/meinthealoe.jpg">
+          <img src="/public/images/Goodle.gif">
         </a>
         <div class="modal fade" id="1" tabindex="-1" role="dialog">
           <div class="modal-dialog" role="document">
