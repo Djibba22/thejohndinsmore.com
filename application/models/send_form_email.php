@@ -142,7 +142,10 @@ $headers = 'From: '.$email_from."\r\n".
  
 <html>
   <body>
-    <h1>Thank you so much for reaching out. I willl</h1>
+    <div class="response">
+    </br>
+    <h2>Thank you so much for reaching out. I will get back to you as soon as possible</h2>
+    </div>
   </body>
 </html>
  
