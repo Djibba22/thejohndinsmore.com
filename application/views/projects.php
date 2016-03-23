@@ -23,7 +23,7 @@
                 <img src="/public/images/Goodle.gif">
               </div>
                 <div class="col-md-12 description">
-                  <h4>Drwan in pencil, painted with photoshop, added layers for the animation </h4>
+                  <h4>Drawn in pencil, painted with photoshop, added layers for the animation </h4>
                 </div>
             </div>
           </div>
@@ -234,7 +234,7 @@
                 <img src="/public/images/App_proto.jpg">
               </div>
                 <div class="col-md-12 description">
-                  <h4>Protoype Layout</h4>
+                  <h4>Protoype Layout, rapid prototyping with Adobe Illustrator. I created the logo in Illustrator as well</h4>
                 </div>
             </div>
           </div>
@@ -254,7 +254,7 @@
                 <img src="/public/images/Wormburner2.png">
               </div>
                 <div class="col-md-12 description">
-                  <h4>Angular, Firebase, Node.js application for Locating golf courses and Keeping Score</h4>
+                  <h4>Angular, Firebase, Node.js application for Locating golf courses and Keeping Score<a href="https://wormburnergolf.herokuapp.com/">WORMBURNER</a> </h4>
                 </div>
             </div>
           </div>
