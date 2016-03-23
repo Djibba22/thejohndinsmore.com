@@ -23,7 +23,7 @@
                 <img src="/public/images/Goodle.gif">
               </div>
                 <div class="col-md-12 description">
-                  <h4>This is a Gif that I hand drew and then painted in Photoshop</h4>
+                  <h4>Drwan in pencil, painted with photoshop, added layers for the animation </h4>
                 </div>
             </div>
           </div>
@@ -43,7 +43,7 @@
                 <img src="/public/images/Tabasco.jpg">
               </div>
                 <div class="col-md-12 description">
-                  <h4>This is realistic Drawing I did in Illustrator with complex gradient meshes</h4>
+                  <h4>Complex gradient meshes and lighting then warped paper label for 3D glass appearence </h4>
                 </div>
             </div>
           </div>
@@ -63,7 +63,7 @@
                 <img src="/public/images/JD_GD.jpg">
               </div>
                 <div class="col-md-12 description">
-                  <h4>An old Business Card</h4>
+                  <h4>Old business card layout with complete abstract effects</h4>
                 </div>
             </div>
           </div>
@@ -83,7 +83,7 @@
                 <img src="/public/images/Smart_Fin.jpg">
               </div>
                 <div class="col-md-12 description">
-                  <h4>This drawing was created as a ficticious product line</h4>
+                  <h4>Technical drawing design, product prototyping, painted and shadows created in Photoshop</h4>
                 </div>
             </div>
           </div>
@@ -103,7 +103,7 @@
                 <img src="/public/images/TravelPoster.jpg">
               </div>
                 <div class="col-md-12 description">
-                  <h4>This is created with just shapes in Illustrator</h4>
+                  <h4>Shapes layered in Illustrator using advanced gradients</h4>
                 </div>
             </div>
           </div>
@@ -123,7 +123,7 @@
                 <img src="/public/images/Flyshirt4.jpg">
               </div>
                 <div class="col-md-12 description">
-                  <h4>I created these to try and get a job with Fly Racing</h4>
+                  <h4>Clothing design sent with application to Fly Racing created in Illustrator</h4>
                 </div>
             </div>
           </div>
@@ -143,7 +143,7 @@
           <img src="/public/images/Rhinorpion_3_Saturated2.jpg">
               </div>
                 <div class="col-md-12 description">
-                  <h4>This is one of my favorites, I love Rhinos</h4>
+                  <h4>Completeley hand drawn in pencil then shapes and shadow layers,  sponge brush painting technique in photoshop</h4>
                 </div>
             </div>
           </div>
@@ -163,7 +163,7 @@
           <img src="/public/images/MoviePoster.jpg">
               </div>
                 <div class="col-md-12 description">
-                  <h4>This is my best mashup #RobotGuns</h4>
+                  <h4>Freehand Illustrator, all line work and shapes created in one shot #RobotGuns</h4>
                 </div>
             </div>
           </div>
@@ -183,7 +183,7 @@
                  <img src="/public/images/walker.jpg">
               </div>
                 <div class="col-md-12 description">
-                  <h4>Recreational Drawing</h4>
+                  <h4> Pencil Recreational Drawing</h4>
                 </div>
             </div>
           </div>
@@ -203,7 +203,7 @@
                 <img src="/public/images/me_portrait.jpg">
               </div>
                 <div class="col-md-12 description">
-                  <h4>Illustrator self portrait</h4>
+                  <h4>Illustrator self portrait, lighting and perspective tracing higlights of a photo</h4>
                 </div>
             </div>
           </div>
