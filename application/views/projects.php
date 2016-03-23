@@ -5,7 +5,7 @@
 	<div class="row">
 		<div class="col-12-lg text-center">
 		 <div class="proj-titlebox">
-		   <h1 class="proj-title">PROJECT GALLERY</h1>
+		   <h1 class="proj-title">ART GALLERY</h1>
 		 </div>
 		</div>
 	</div>
@@ -210,6 +210,17 @@
         </div>
       </div>
     </div>
+</div>
+</section>
+<section>
+	<div class="row">
+		<div class="col-12-lg text-center">
+		 <div class="proj-titlebox">
+		   <h1 class="proj-title">WEB GALLERY</h1>
+		 </div>
+		</div>
+	</div>
+	<div class="container gal-container">
     <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
       <div class="box">
         <a href="#" data-toggle="modal" data-target="#11">
