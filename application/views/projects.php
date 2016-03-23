@@ -53,17 +53,17 @@
     <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
       <div class="box">
         <a href="#" data-toggle="modal" data-target="#3">
-          <img src="/public/images/MoviePoster.pdf">
+          <img src="/public/images/App_proto.jpg">
         </a>
         <div class="modal fade" id="3" tabindex="-1" role="dialog">
           <div class="modal-dialog" role="document">
             <div class="modal-content">
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
               <div class="modal-body">
-                <img src="/public/images/MoviePoster.pdf">
+                <img src="/public/images/App_proto.jpg">
               </div>
                 <div class="col-md-12 description">
-                  <h4>A movie poster with my original art work</h4>
+                  <h4>This is a prototype of an Application, I created the logo and the layout</h4>
                 </div>
             </div>
           </div>
@@ -93,17 +93,17 @@
     <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
       <div class="box">
         <a href="#" data-toggle="modal" data-target="#5">
-          <img src="http://placemi.com/k2mjk/1000x750">
+          <img src="/public/images/TravelPoster.jpg">
         </a>
         <div class="modal fade" id="5" tabindex="-1" role="dialog">
           <div class="modal-dialog" role="document">
             <div class="modal-content">
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
               <div class="modal-body">
-                <img src="http://placemi.com/k2mjk/1000x750">
+                <img src="/public/images/TravelPoster.jpg">
               </div>
                 <div class="col-md-12 description">
-                  <h4>This is the fifth one on my Gallery</h4>
+                  <h4>This is created with just shapes in Illustrator</h4>
                 </div>
             </div>
           </div>
