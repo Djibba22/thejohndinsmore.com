@@ -1,8 +1,11 @@
 <?php 
+ini_set('display_errors',1);
+ini_set('display_startup_errors',1);
+error_reporting(-1);
 if(isset($_POST['email'])){
 
 	$email_to = "johnwaynedinsmore@gmail.com";
-	$email_subject = "Your email subject line";
+	$email_subject = "TheJohnDinsmore.com Response";
 
 
 	function died($error){
