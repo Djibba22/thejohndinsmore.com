@@ -154,6 +154,9 @@ img.logo1{
     margin: 101.5px -9px;
     font-size: 1.1em;
 }
+.navbar-fixed-top .navbar-collapse, .navbar-static-top .navbar-collapse {
+    padding-left: 1% !important;
+}
 .container-fluid>.navbar-collapse, .container-fluid>.navbar-header, .container>.navbar-collapse, .container>.navbar-header {
      margin-right: 0px; 
      margin-left: 0px; 
@@ -202,8 +205,8 @@ h1{
     margin-left: 33%;
 }
 .nav-container-fluid>.navbar-collapse, .nav-container-fluid>.navbar-header, .nav-container>.navbar-collapse, .nav-container>.navbar-header {
-    margin-right: -15px;
-    margin-left: -22px;
+    /*margin-right: -15px;
+    margin-left: -22px;*/
     line-height: 1px;    
 }
 .nav-container{
