@@ -190,7 +190,7 @@ h1{
 }
 /*======= nav bar styling =========*/
 .navbar{
-    max-width: 90px;
+    max-width: 130px;
     position: fixed;
     top: 0;
 }
