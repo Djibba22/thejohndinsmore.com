@@ -163,7 +163,7 @@
           <img src="/public/images/MoviePoster.jpg">
               </div>
                 <div class="col-md-12 description">
-                  <h4>This is my best mashup which has so much mystery</h4>
+                  <h4>This is my best mashup #RobotGuns</h4>
                 </div>
             </div>
           </div>
@@ -173,17 +173,17 @@
     <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
       <div class="box">
         <a href="#" data-toggle="modal" data-target="#9">
-          <img src="http://placemi.com/59h1p/1000x750">
+           <img src="/public/images/Walker.jpg">
         </a>
         <div class="modal fade" id="9" tabindex="-1" role="dialog">
           <div class="modal-dialog" role="document">
             <div class="modal-content">
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
               <div class="modal-body">
-                <img src="http://placemi.com/59h1p/1000x750">
+                 <img src="/public/images/Walker.jpg">
               </div>
                 <div class="col-md-12 description">
-                  <h4>This is the ninth one on my Gallery</h4>
+                  <h4>Recreational Drawing</h4>
                 </div>
             </div>
           </div>
@@ -193,17 +193,17 @@
     <div class="col-md-8 col-sm-12 co-xs-12 gal-item">
       <div class="box">
         <a href="#" data-toggle="modal" data-target="#10">
-          <img src="http://placemi.com/lybbn/1000x750">
+            <img src="/public/images/me_portrait.jpg">
         </a>
         <div class="modal fade" id="10" tabindex="-1" role="dialog">
           <div class="modal-dialog" role="document">
             <div class="modal-content">
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
               <div class="modal-body">
-                <img src="http://placemi.com/lybbn/1000x750">
+                <img src="/public/images/me_portrait.jpg">
               </div>
                 <div class="col-md-12 description">
-                  <h4>This is the tenth one on my Gallery</h4>
+                  <h4>Illustrator self portrait</h4>
                 </div>
             </div>
           </div>
