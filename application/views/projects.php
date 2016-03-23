@@ -1,5 +1,7 @@
 
-	<h1>This is the projects page</h1>
+	<div class="col-12-lg text-center">
+		<h1>Project Gallery</h1>
+	</div>
 
 <section>
   <div class="container gal-container">
