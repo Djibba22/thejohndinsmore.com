@@ -7,7 +7,7 @@
             </div>
             <div class="row text-center">
               <div class="fade-in two">
-                <h1 class="slogan fade-in two">Web Developer/Front end Designer</h1>
+                <h1 class="slogan fade-in two">Web Developer / Graphic Artist</h1>
               </div>
             </div>
     </div>
