@@ -264,17 +264,17 @@
     <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
       <div class="box">
         <a href="#" data-toggle="modal" data-target="#13">
-          <img src="http://placemi.com/ts4a8/1000x750">
+            <img src="/public/images/WormBurnerPHP.png">
         </a>
         <div class="modal fade" id="13" tabindex="-1" role="dialog">
           <div class="modal-dialog" role="document">
             <div class="modal-content">
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
               <div class="modal-body">
-                <img src="http://placemi.com/ts4a8/1000x750">
+               <img src="/public/images/WormBurnerPHP.png">
               </div>
                 <div class="col-md-12 description">
-                  <h4>This is the 13th one on my Gallery</h4>
+                  <h4>Built in PHP, this robust application pulls data from an API, utilizes the ion-auth libray for codeIgniter and sports CRUD operations with MYSQL. The code => <a class="gal-link" href="https://github.com/Djibba22/wormburner.git">PHP v1.0 WORMBURNER</a></h4>
                 </div>
             </div>
           </div>
