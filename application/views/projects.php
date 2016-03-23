@@ -1,9 +1,12 @@
 
-	<div class="col-12-lg text-center">
-		<h1>Project Gallery</h1>
-	</div>
+	
 
 <section>
+	<div class="row">
+		<div class="col-12-lg text-center">
+		  <h1>Project Gallery</h1>
+		</div>
+	</div>
   <div class="container gal-container">
     <div class="col-md-8 col-sm-12 co-xs-12 gal-item">
       <div class="box">
