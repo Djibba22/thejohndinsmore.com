@@ -113,17 +113,17 @@
     <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
       <div class="box">
         <a href="#" data-toggle="modal" data-target="#6">
-          <img src="http://placemi.com/lv0ga/1000x750">
+          <img src="/public/images/Flyshirt4.jpg">
         </a>
         <div class="modal fade" id="6" tabindex="-1" role="dialog">
           <div class="modal-dialog" role="document">
             <div class="modal-content">
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
               <div class="modal-body">
-                <img src="http://placemi.com/lv0ga/1000x750">
+                <img src="/public/images/Flyshirt4.jpg">
               </div>
                 <div class="col-md-12 description">
-                  <h4>This is the sixth one on my Gallery</h4>
+                  <h4>I created these to try and get a job with Fly Racing</h4>
                 </div>
             </div>
           </div>
@@ -133,17 +133,17 @@
     <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
       <div class="box">
         <a href="#" data-toggle="modal" data-target="#7">
-          <img src="http://placemi.com/3rezh/1000x750">
+          <img src="/public/images/Rhinorpion_3_Saturated2.jpg">
         </a>
         <div class="modal fade" id="7" tabindex="-1" role="dialog">
           <div class="modal-dialog" role="document">
             <div class="modal-content">
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
               <div class="modal-body">
-                <img src="http://placemi.com/3rezh/1000x750">
+          <img src="/public/images/Rhinorpion_3_Saturated2.jpg">
               </div>
                 <div class="col-md-12 description">
-                  <h4>This is the seventh one on my Gallery</h4>
+                  <h4>This is one of my favorites, I love Rhinos</h4>
                 </div>
             </div>
           </div>
@@ -153,17 +153,17 @@
     <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
       <div class="box">
         <a href="#" data-toggle="modal" data-target="#8">
-          <img src="http://placemi.com/nfjhz/1000x750">
+          <img src="/public/images/MoviePoster.jpg">
         </a>
         <div class="modal fade" id="8" tabindex="-1" role="dialog">
           <div class="modal-dialog" role="document">
             <div class="modal-content">
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
               <div class="modal-body">
-                <img src="http://placemi.com/nfjhz/1000x750">
+          <img src="/public/images/MoviePoster.jpg">
               </div>
                 <div class="col-md-12 description">
-                  <h4>This is the eighth one on my Gallery</h4>
+                  <h4>This is my best mashup which has so much mystery</h4>
                 </div>
             </div>
           </div>
