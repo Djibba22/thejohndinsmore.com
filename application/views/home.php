@@ -6,10 +6,11 @@
                 <img src="/public/images/JDlogoblue.png" class="logo1 img-responsive">
             </div>
             <div class="row text-center">
-              <div class="fade-in two">
-                <h1 class="slogan fade-in two">Web Developer / Graphic Artist</h1>
+              <div class="proj-titlebox">
+                <h1 class="proj-title">WEB DEVELOPER | GRAPHIC ARTIST</h1>
               </div>
             </div>
+            
     </div>
 </section>
 <!-- Section 2 -->
