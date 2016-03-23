@@ -254,7 +254,7 @@
                 <img src="/public/images/Wormburner2.png">
               </div>
                 <div class="col-md-12 description">
-                  <h4>Angular, Firebase, Node.js application for Locating golf courses and Keeping Score<a class="gal-link" href="https://wormburnergolf.herokuapp.com/">WORMBURNER</a> </h4>
+                  <h4>Angular, Firebase, Node.js application for Locating golf courses and Keeping Score.Check it out => <a class="gal-link" href="https://wormburnergolf.herokuapp.com/">WORMBURNER</a> </h4>
                 </div>
             </div>
           </div>
