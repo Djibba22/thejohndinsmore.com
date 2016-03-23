@@ -4,14 +4,13 @@
     <div class="container">
             <div class="row text-center fade-in one">
                 <img src="/public/images/JDlogoblue.png" class="logo1 img-responsive">
-            </div>
-            <div class="row text-center">
-              <div class="home-titlebox">
-                <h1 class="slogan">WEB DEVELOPER | GRAPHIC ARTIST</h1>
-              </div>
-            </div>
-            
+            </div>      
     </div>
+     <div class="row text-center">
+        <div class="home-titlebox">
+          <h1 class="slogan">WEB DEVELOPER | GRAPHIC ARTIST</h1>
+        </div>
+     </div>
 </section>
 <!-- Section 2 -->
 <section id="home" data-speed="4" data-type="background">
