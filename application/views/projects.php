@@ -20,10 +20,10 @@
             <div class="modal-content">
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
               <div class="modal-body">
-                <img src="http://placemi.com/i3xhd/1000x750">
+                <img src="/public/images/Goodle.gif">
               </div>
                 <div class="col-md-12 description">
-                  <h4>This is the first one on my Gallery</h4>
+                  <h4>This is a Gif that I hand drew and then painted in Photoshop</h4>
                 </div>
             </div>
           </div>
@@ -33,17 +33,17 @@
     <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
       <div class="box">
         <a href="#" data-toggle="modal" data-target="#2">
-          <img src="http://placemi.com/gut3z/1000x750">
+          <img src="/public/images/Tobasco.jpg">
         </a>
         <div class="modal fade" id="2" tabindex="-1" role="dialog">
           <div class="modal-dialog" role="document">
             <div class="modal-content">
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
               <div class="modal-body">
-                <img src="http://placemi.com/gut3z/1000x750">
+                <img src="/public/images/Tobasco.jpg">
               </div>
                 <div class="col-md-12 description">
-                  <h4>This is the second one on my Gallery</h4>
+                  <h4>This is realistic Drawing I did in Illustrator with complex gradient meshes</h4>
                 </div>
             </div>
           </div>
@@ -53,17 +53,17 @@
     <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
       <div class="box">
         <a href="#" data-toggle="modal" data-target="#3">
-          <img src="http://placemi.com/yggpo/1000x750">
+          <img src="/public/images/App_proto.jpg">
         </a>
         <div class="modal fade" id="3" tabindex="-1" role="dialog">
           <div class="modal-dialog" role="document">
             <div class="modal-content">
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
               <div class="modal-body">
-                <img src="http://placemi.com/yggpo/1000x750">
+                <img src="/public/images/App_proto.jpg">
               </div>
                 <div class="col-md-12 description">
-                  <h4>This is the third one on my Gallery</h4>
+                  <h4>This is a prototype of an Application, I created the logo and the layout</h4>
                 </div>
             </div>
           </div>
@@ -73,17 +73,17 @@
     <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
       <div class="box">
         <a href="#" data-toggle="modal" data-target="#4">
-          <img src="http://placemi.com/49zqo/1000x750">
+          <img src="/public/images/Smart_Fin.jpg">
         </a>
         <div class="modal fade" id="4" tabindex="-1" role="dialog">
           <div class="modal-dialog" role="document">
             <div class="modal-content">
                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
               <div class="modal-body">
-                <img src="http://placemi.com/49zqo/1000x750">
+                <img src="/public/images/Smart_Fin.jpg">
               </div>
                 <div class="col-md-12 description">
-                  <h4>This is the fourth one on my Gallery</h4>
+                  <h4>This drawing was created as a ficticious product line</h4>
                 </div>
             </div>
           </div>
