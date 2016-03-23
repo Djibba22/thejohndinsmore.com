@@ -130,7 +130,7 @@ img.logo1{
    text-align:center; 
 }
 .home-titlebox{
-    background-color: rgba(0,0,0,0.5%);
+    background-color: rgba(0, 0, 255, 0.3);
     border: 1px solid #5c7782;
     padding:10px;
 }
