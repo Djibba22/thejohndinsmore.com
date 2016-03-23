@@ -3,7 +3,7 @@
     <div class="row">
         <div class="col-md-12 contactContainer">
             <div class="well well-sm">
-                <form class="form-horizontal" method="post" action="./models/send_form_email.php">
+                <form class="form-horizontal" method="post" action="/models/send_form_email.php">
                     <fieldset>
                         <legend class="text-center header">Please Contact me</legend>
 
