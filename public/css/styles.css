@@ -118,9 +118,18 @@ footer{
     color: #fff;
     padding-bottom: 39px;
 }
+.footer-primary > ul a{
+    text-decoration: none;
+}
 .social{
     color:#5c7782;
     list-style-type: none;
+}
+.icon-social-facebook{
+    background-size: cover;
+    width: 34px;
+    height: 34px;
+    background-image:url(../public/images/facebookcrack.png);
 }
 
 /*margin for the icons in the footer*/
