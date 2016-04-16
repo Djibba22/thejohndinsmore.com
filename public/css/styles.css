@@ -1,4 +1,8 @@
 
+.blackTop{
+    height: 100px;
+    background-color: 1c1c1c;
+}
 .footer-icon{
     width: 30%;
     text-align: center;
