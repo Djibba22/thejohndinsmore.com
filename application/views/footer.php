@@ -1,8 +1,8 @@
  <footer class="footer-primary">
- 	<ul class="social">
- 		<li><h2>Facebook</h2></li>
- 		<li><h2>LinkedIn</h2></li>
- 		<li><h2>Github</h2></li>
+ 	<ul class="social list-inline">
+ 		<li class="icon-social-facebook"><a href="https://www.facebook.com/john.dinsmore.319">Facebook</a></li>
+ 		<li class="icon-social-linkedin"><a href="/public/images/linkedincrack.png">LinkedIn</a></li>
+ 		<li class="icon-social-github"><a href="https://github.com/Djibba22/djibba22.github.io">LinkedIn</a></li>
  	</ul>
  </footer>
  </div>

@@ -112,7 +112,13 @@ img.logo1{
 
 /*#############======FOOTER=====##################*/
 /*##################===styles=====################*/
-
+footer{
+    background-color:#404040;
+}
+.social{
+    color:#5c7782;
+    list-style-type: none;
+}
 
 /*margin for the icons in the footer*/
 
