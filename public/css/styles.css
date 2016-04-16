@@ -126,11 +126,9 @@ footer{
     list-style-type: none;
 }
 .icon-social-facebook{
-    display: block;
-    background-size: cover;
     width: 34px;
     height: 34px;
-    background-image:url(../public/images/facebookcrack.png);
+    background:url(../public/images/facebookcrack.png)no-repeat bottom center;
 }
 
 /*margin for the icons in the footer*/
