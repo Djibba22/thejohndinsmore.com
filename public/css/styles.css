@@ -130,7 +130,7 @@ a.icon-social-facebook{
     height:100px;
     width:100px;
     background-size: cover;
-    background:url(../images/facebookcrack.png)no-repeat bottom center;
+    background:url(../images/facebookcrack.png);
 }
 
 /*margin for the icons in the footer*/
