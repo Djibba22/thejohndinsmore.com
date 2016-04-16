@@ -3,7 +3,7 @@
  		<li><a class="icon-social-facebook" href="https://www.facebook.com/john.dinsmore.319"></a></li>
  		<li><a class="icon-social-linkedin" href="//www.linkedin.com/in/johndinsmore1"></a></li>
  		<li><a class="icon-social-twitter"  href="https://twitter.com/JohnWDinsmore"></a></li>
- 		<li><a class="icon-social-github"  href="https://github.com/Djibba22/djibba22.github.io"></a></li>
+ 		<li><a class="icon-social-github"  href="https://github.com/Djibba22"></a></li>
 
  	</ul>
  </footer>
