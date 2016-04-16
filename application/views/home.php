@@ -28,7 +28,7 @@
 </section>
 <!-- Section 3 -->
 <section id="about" data-speed="2" data-type="background">
-    <div class="container">
+    <div class="container-bottom">
      <div class="blackTop">
      </div>
      <div class="bottom"> 
