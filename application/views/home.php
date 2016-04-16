@@ -28,10 +28,10 @@
 </section>
 <!-- Section 3 -->
 <section id="about" data-speed="2" data-type="background">
+    <div class="bottom">
     <div class="blackTop">
         
-    </div>
-    <div class="bottom"> 
+    </div> 
         <div class="footer-icon  col-sm-4 col-md-4">
              <a href="https://www.facebook.com/john.dinsmore.319">
             <img src="/public/images/facebookcrack.png" alt="facebook" class="img-responsive pull-left"></a>
