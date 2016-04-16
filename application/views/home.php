@@ -32,18 +32,18 @@
         
     </div>
     <div class="bottom"> 
-        <div class="footer-icon  col-sm-4 col-md-4">
+        <div class="footer-icon  col-sm-4 col-md-4 text-center">
              <a href="https://www.facebook.com/john.dinsmore.319">
             <img src="/public/images/facebookcrack.png" alt="facebook" class="img-responsive pull-left"></a>
             <h2>Facebook</h2>  
          </div>
-         <div class="footer-icon  col-sm-4 col-md-4">
-             <a href="https://www.linkedin.com/in/johndinsmore1">
+         <div class="footer-icon  col-sm-4 col-md-4 text-center">
+            <a href="https://www.linkedin.com/in/johndinsmore1">
             <img src="/public/images/linkedincrack.png" alt="linkedin" class="img-responsive pull-left"></a>
             <h2>Linkedin</h2>  
          </div>
         <div class="container">
-         <div class="footer-icon col-sm-4 col-md-4">
+         <div class="footer-icon col-sm-4 col-md-4 text-center">
              <a href="https://github.com/Djibba22/djibba22.github.io">
             <img src="/public/images/jetpacktocat.png" alt="github" class="img-responsive pull-right"></a>
             <h2>github</h2>  
