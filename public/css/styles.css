@@ -129,7 +129,7 @@ a.icon-social-facebook{
     display: block;
     height:100px;
     width:100px;
-    background-size: cover;
+    background-size: 100px 100px;
     background:url(../images/facebookcrack.png);
 }
 
