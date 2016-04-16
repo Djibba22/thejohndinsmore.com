@@ -1,17 +1,5 @@
 
-.blackTop{
-    height: 100px;
-    width:100%;
-    background-color: #36A0FF;
-}
-.footer-icon{
-    width: 30%;
-    text-align: center;
-}
-/*margin for the icons in the footer*/
-.bottom{
- margin-left: 7%;
-}
+
  .header {
         color: #36A0FF;
         font-size: 27px;
@@ -99,6 +87,9 @@ img.logo1{
     background-color:;
     height:500px;
 }
+
+/*#############======FOOTER=====##################*/
+/*##################===styles=====################*/
 #about { 
     background: url(../images/skulls.png) 50% 0 fixed; 
     height: auto;
@@ -106,8 +97,21 @@ img.logo1{
     width: 100%; 
     position: relative; 
     box-shadow: 0 0 50px rgba(0,0,0,0.8);
-    padding: 100px 0;
+    padding: 0;
     color: #5c7782;
+}
+.blackTop{
+    height: 100px;
+    width:100%;
+    background-color: #404040;
+}
+.footer-icon{
+    width: 30%;
+    text-align: center;
+}
+/*margin for the icons in the footer*/
+.bottom{
+ margin-left: 7%;
 }
 .box1{
     height: 650px;
