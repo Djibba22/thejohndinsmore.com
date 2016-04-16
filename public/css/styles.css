@@ -114,6 +114,9 @@ img.logo1{
 /*##################===styles=====################*/
 footer{
     background-color:#404040;
+    padding-top: 64px;
+    color: #fff;
+    padding-bottom: 39px;
 }
 .social{
     color:#5c7782;
