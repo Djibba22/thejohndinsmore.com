@@ -125,13 +125,38 @@ footer{
     color:#5c7782;
     list-style-type: none;
 }
+.social > li{
+    margin-left: 15%;
+}
 a.icon-social-facebook{
     display: block;
     height:100px;
     width:100px;
-    background:url(../images/facebookcrack.png);
+    background:url(../images/facebook-icon.png);
     background-size: 100px 100px;
 }
+a.icon-social-linkedin{
+    display: block;
+    height:100px;
+    width:100px;
+    background:url(../images/linkedin.ico);
+    background-size: 100px 100px;
+}
+a.icon-social-github{
+    display: block;
+    height:100px;
+    width:100px;
+    background:url(../images/jetpacktocat.png);
+    background-size: 100px 100px;
+}
+a.icon-social-twitter{
+    display: block;
+    height:100px;
+    width:100px;
+    background:url(../images/twitter-icon.png);
+    background-size: 100px 100px;
+}
+
 
 /*margin for the icons in the footer*/
 
