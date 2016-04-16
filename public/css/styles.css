@@ -125,8 +125,11 @@ footer{
     color:#5c7782;
     list-style-type: none;
 }
-.icon-social-facebook{
-    background:url(../public/images/facebookcrack.png)no-repeat bottom center;
+a.icon-social-facebook{
+    display: block;
+    height:100px;
+    width:100px;
+    background-image:url(../public/images/facebookcrack.png)no-repeat bottom center;
 }
 
 /*margin for the icons in the footer*/
