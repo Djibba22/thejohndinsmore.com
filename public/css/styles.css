@@ -126,6 +126,7 @@ footer{
     list-style-type: none;
 }
 .icon-social-facebook{
+    display: block;
     background-size: cover;
     width: 34px;
     height: 34px;
