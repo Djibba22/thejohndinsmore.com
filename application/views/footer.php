@@ -1,3 +1,10 @@
+ <footer class="footer-primary">
+ 	<ul class="social">
+ 		<li><h2>Facebook</h2></li>
+ 		<li><h2>LinkedIn</h2></li>
+ 		<li><h2>Github</h2></li>
+ 	</ul>
+ </footer>
  </div>
   <!-- Bootstrap-->
   <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>

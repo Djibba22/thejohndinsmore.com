@@ -88,11 +88,9 @@ img.logo1{
     height:500px;
 }
 
-/*#############======FOOTER=====##################*/
-/*##################===styles=====################*/
 #about { 
     background: url(../images/skulls.png) 50% 0 fixed; 
-    height: auto;
+    height: 200px;
     margin: 0 auto; 
     width: 100%; 
     position: relative; 
@@ -100,21 +98,24 @@ img.logo1{
     padding: 0;
     color: #5c7782;
 }
-.container-footer{
-    width:100%;
+.bottom{
+ margin-left: 7%;
+}
+.footer-icon{
+    width: 30%;
 }
 .blackTop{
     height: 100px;
     width:100%;
     background-color: #404040;
 }
-.footer-icon{
-    width: 30%;
-}
+
+/*#############======FOOTER=====##################*/
+/*##################===styles=====################*/
+
+
 /*margin for the icons in the footer*/
-.bottom{
- margin-left: 7%;
-}
+
 .box1{
     height: 650px;
     width:100%;

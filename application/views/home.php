@@ -28,10 +28,10 @@
 </section>
 <!-- Section 3 -->
 <section id="about" data-speed="2" data-type="background">
-    <div class="container-bottom">
+ <div class="container">
      <div class="blackTop">
      </div>
-     <div class="bottom"> 
+     <!-- <div class="bottom"> 
         <div class="footer-icon  col-sm-4 col-md-4 col-lg-4 text-center">
              <a href="https://www.facebook.com/john.dinsmore.319">
             <img src="/public/images/facebookcrack.png" alt="facebook" class="img-responsive pull-left"></a>
@@ -47,7 +47,7 @@
             <img src="/public/images/jetpacktocat.png" alt="github" class="img-responsive pull-right"></a>
             <div><h2>github</h2></div>  
         </div>   
-     </div>
+     </div> -->
 </div>
 </section>
 
