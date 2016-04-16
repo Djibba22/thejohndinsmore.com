@@ -183,7 +183,7 @@ img.logo1{
     color:green;
 }
 .contactContainer{
-    background-image: url(../images/4Bikes.jpg);
+    background-color:gray;
     background-size: 100%;
     background-repeat: no-repeat;
 }
