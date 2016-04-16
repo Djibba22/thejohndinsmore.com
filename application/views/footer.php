@@ -1,6 +1,6 @@
  <footer class="footer-primary">
  	<ul class="social list-inline">
- 		<li><a class="icon-social-facebook" href="https://www.facebook.com/john.dinsmore.319" target="_BLANK">Facebook</a></li>
+ 		<li><a class="icon-social-facebook" href="https://www.facebook.com/john.dinsmore.319"><p>Facebook</p></a></li>
  		<li class="icon-social-linkedin"><a href="//www.linkedin.com/in/johndinsmore1">LinkedIn</a></li>
  		<li class="icon-social-github"><a href="https://github.com/Djibba22/djibba22.github.io">Github</a></li>
  	</ul>
