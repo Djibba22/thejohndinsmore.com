@@ -28,26 +28,16 @@
 </section>
 <!-- Section 3 -->
 <section id="about" data-speed="2" data-type="background">
+    <div class="blackTop text-center">
+        <h2>A little about me..</h2>
+    </div>
  <div class="container">
-     <div class="blackTop">
-     </div>
-     <!-- <div class="bottom"> 
-        <div class="footer-icon  col-sm-4 col-md-4 col-lg-4 text-center">
-             <a href="https://www.facebook.com/john.dinsmore.319">
-            <img src="/public/images/facebookcrack.png" alt="facebook" class="img-responsive pull-left"></a>
-            <div><h2>Facebook</h2></div>  
-         </div>
-         <div class="footer-icon  col-sm-4 col-md-4 col-lg-4 text-center">
-            <a href="https://www.linkedin.com/in/johndinsmore1">
-            <img src="/public/images/linkedincrack.png" alt="linkedin" class="img-responsive pull-left"></a>
-            <div><h2>Linkedin</h2></div> 
-         </div>
-         <div class="footer-icon col-sm-4 col-md-4 col-lg-4 text-center">
-            <a href="https://github.com/Djibba22/djibba22.github.io">
-            <img src="/public/images/jetpacktocat.png" alt="github" class="img-responsive pull-right"></a>
-            <div><h2>github</h2></div>  
-        </div>   
-     </div> -->
+    <div class="col-md-4">
+     <h3>"My mother named me after the great John Wayne. I have seen all of the movies and I am aware of his real name, Marion Robert Morrison"</h3>
+    </div>
+    <div class="bio_block col-sm-8 col-md-6">
+     <img id="chunwen" src="/public/images/chunwen.jpg" class="img-responsive">
+    </div>
 </div>
 </section>
 
