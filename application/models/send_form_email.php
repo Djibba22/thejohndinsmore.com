@@ -1,5 +1,5 @@
 <?php
-if(mail("receipient@domain.com","A Subject Here","Hi there,\nThis email was sent using PHP's mail function."))
+if(mail("johnwaynedinsmore@gmail.com","What's Up","Hi there,\nThis email was sent using PHP's mail function."))
 print "Email successfully sent";
 else
 print "An error occured";
