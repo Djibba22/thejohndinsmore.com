@@ -2,6 +2,7 @@
 if(mail("johnwaynedinsmore@gmail.com","What's Up","Hi there,\nThis email was sent using PHP's mail function."))
 print "Email successfully sent";
 else
+  var_dump(mail())
 print "An error occured";
  
 // if(isset($_POST['email'])) {
