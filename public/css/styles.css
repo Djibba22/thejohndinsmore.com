@@ -195,7 +195,7 @@ a.icon-social-twitter{
 .navbar-nav>li{
     border-bottom: 1px solid gray;
 }
-.slogan{
+h1.slogan{
    color:white;
    text-align:center; 
 }
@@ -245,6 +245,29 @@ a.icon-social-twitter{
 
 
 /*contact page styles*/
+.article{
+    padding-bottom: 27px;
+    color: #071217;
+    width: 100%;
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.article header h1{
+    font-size: 3.75rem;
+}
+.left{
+  
+    
+}
+.contact_lead{
+    margin-top:100px;
+}
+.article .text, .article header.left {
+    padding-left: 28px;
+    padding-right: 28px;
+}
 .well{
     height: 600px;
     width:80%;
@@ -253,7 +276,7 @@ a.icon-social-twitter{
     color:green;
 }
 .contactContainer{
-    background-color:gray;
+    
     background-size: 100%;
     background-repeat: no-repeat;
 }
@@ -268,11 +291,7 @@ a.icon-social-twitter{
 }
 }
 
-h1{
-    font-size: 2.2em;
-    text-align: center;
-    color: white;
-}
+
 /*======= nav bar styling =========*/
 .navbar{
     max-width: 130px;

@@ -1,5 +1,9 @@
-
-	
+<section class="article contact_lead">
+    <div class="left"><h1>Reach out to Me</h1></div>
+    <div class="text"><strong>If you have any questions or maybe a project idea, please feel free to reach out. I have this forwarded to my personal gmail account and 
+        I will respond as soon as possible. I love building new applications and hearing feedback for my site. I am always open to new technolgies as well so please drop me a message and I am also available on slack.</strong></div> 
+</section>
+<section class="article">	
     <div class="row">
         <div class="col-md-12 contactContainer">
             <div class="well well-sm">
@@ -49,12 +53,9 @@
                     </fieldset>
                 </form>
             </div>
-             <div class="conversion">
-        		<p>Thank you</p>
-        	</div>
-        </div>
-       
+        </div> 
     </div>
+</section>
 
 
 
