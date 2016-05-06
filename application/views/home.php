@@ -329,7 +329,7 @@ TALENT -->
         </div>
     </div>
 </section>
-<section class="mbr-slider mbr-section mbr-section--no-padding carousel slide" data-ride="carousel" data-wrap="true" data-interval="5000" id="slider2-78">
+<!-- <section class="mbr-slider mbr-section mbr-section--no-padding carousel slide" data-ride="carousel" data-wrap="true" data-interval="5000" id="slider2-78">
     <div class="mbr-section__container container article-slider mbr-section__container--isolated">
         <div class=" col-sm-8 col-sm-offset-2">
             <ol class="carousel-indicators">
@@ -381,7 +381,7 @@ TALENT -->
             </a>
         </div>
     </div>
-</section>
+</section> -->
 
 <!-- <section class="mbr-section mbr-section--relative mbr-section--fixed-size" id="msg-box3-81" style="background-color: rgb(255, 255, 255);">
     <div class="mbr-section__container container mbr-section__container--isolated">
