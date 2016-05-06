@@ -361,7 +361,7 @@ TALENT -->
                 </div><div class="mbr-box mbr-section mbr-section--relative mbr-section--fixed-size mbr-section--bg-adapted item dark center">
                     <div class="mbr-box__magnet">
                         <div>
-                            <img src="public/assets/images/WormburnerPHP.png">
+                            <img src="public/assets/images/WormBurnerPHP.png">
                             <div class="row"><div class="col-sm-8 col-sm-offset-2">
                                 <div class="mbr-hero">
                                 </div>
