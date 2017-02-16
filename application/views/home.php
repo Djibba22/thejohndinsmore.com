@@ -144,7 +144,7 @@ TALENT -->
                       <div class="thumbnail">
                         <div class="text-center">
                           <h3>SERVER SIDE | BACK END</h3>
-                          <p>I am a full-stack developer. I have in depth knowledge of the life cycle of development. I have worked with PHP/Python languages and APACHE/Linux servers</p>
+                          <p>I am a full-stack developer. I have in depth knowledge of the life cycle of development. I have working knowledge with PHP, MySQL, Node.js, MongoDB and APACHE/Linux servers</p>
                         </div>
                       </div>
                             <!-- <p class="group"><a href="https://mobirise.com/bootstrap-template/" class="btn btn-info">LEARN MORE</a></p> -->
@@ -194,8 +194,8 @@ TALENT -->
         </div>
     </div>
 </section>
-<section class="mbr-section mbr-section--relative mbr-parallax-background" id="msg-box5-79" style="background-image: url(public/assets/images/dark_embroidery.png);">
-    <div class="mbr-overlay" style="opacity: 0.5; background-color: rgb(0, 168, 133);"></div>
+<section class="mbr-section mbr-section--relative mbr-parallax-background" id="msg-box5-79" style="background-image: url(public/assets/images/4Bikes.jpg);">
+    <div class="mbr-overlay" style="opacity: 0.5;"></div>
     <div class="mbr-section__container mbr-section__container--isolated container">
         <div class="row">
             <div class="mbr-box mbr-box--fixed mbr-box--adapted">
@@ -251,7 +251,7 @@ TALENT -->
     </div>
 </section>
 
-
+<!-- Cricket background section with Wormburner App -->
 <section class="mbr-section mbr-section--relative mbr-parallax-background" id="msg-box5-79" style="background-image: url(public/assets/images/blackcricket.jpg);">
     <div class="mbr-overlay" style="opacity: 0.8; background-color: rgb(0, 168, 133);"></div>
     <div class="mbr-section__container mbr-section__container--isolated container">
@@ -332,7 +332,34 @@ TALENT -->
 <!--
 VIDEO
 -->
-<section class="mbr-box mbr-section mbr-section--relative mbr-section--fixed-size mbr-section--full-height mbr-section--bg-adapted mbr-after-navbar" id="header1-40" data-bg-video="https://www.youtube.com/watch?v=OCY74qlAs4U">
+<section class="mbr-section mbr-section--relative mbr-parallax-background" id="msg-box5-79" style="background-color: black;">
+    <div class="mbr-overlay" style="opacity: 0.8; background-color: rgb(0, 0, 0);"></div>
+    <div class="mbr-section__container mbr-section__container--isolated container">
+        <div class="row">
+            <div class="mbr-box mbr-box--fixed mbr-box--adapted">
+                <div class="mbr-box__magnet mbr-box__magnet--top-right mbr-section__left col-sm-6">
+                    <figure class="mbr-figure mbr-figure--adapted mbr-figure--caption-inside-bottom mbr-figure--full-width">
+                      <img class="mbr-figure__img" src="public/assets/images/FlyShirt4.jpg">
+                    </figure>
+                </div>
+                <div class="mbr-box__magnet mbr-class-mbr-box__magnet--center-left col-sm-6 mbr-section__right">
+                    <div class="mbr-section__container mbr-section__container--middle">
+                        <div class="mbr-header mbr-header--auto-align mbr-header--wysiwyg">
+                            <h3 class="mbr-header__text">Design is second nature</h3>
+
+                        </div>
+                    </div>
+                    <div class="mbr-section__container mbr-section__container--middle">
+                        <div class="mbr-article mbr-article--auto-align mbr-article--wysiwyg">
+                          <p>I have always been obsessed with how things look. My surroundings are important to me, so I know they aportant to the user. I plan on having a long career in Design and Development</p></div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
+<!-- <section class="mbr-box mbr-section mbr-section--relative mbr-section--fixed-size mbr-section--full-height mbr-section--bg-adapted mbr-after-navbar" id="header1-40" data-bg-video="https://www.youtube.com/watch?v=OCY74qlAs4U">
     <div class="mbr-box__magnet mbr-box__magnet--sm-padding mbr-box__magnet--center-left">
         <div class="mbr-overlay" style="opacity: 0.0; background-color: rgb(76, 105, 114);"></div>
         <div class="mbr-box__container mbr-section__container container">
@@ -349,7 +376,7 @@ VIDEO
             </div>
         </div>
     </div>
-</section>
+</section> -->
 <!-- CONTACT FORM -->
 <section class="mbr-section mbr-section--relative mbr-section--fixed-size" id="form1-89" style="background-color: rgb(239, 239, 239);">
     <div class="mbr-section__container mbr-section__container--std-padding container">
@@ -399,8 +426,8 @@ VIDEO
                 <div class="row">
                     <div class="col-sm-5 col-sm-offset-1">
                         <p class="mbr-contacts__text"><strong>ADDRESS</strong><br>
-                          3000 Clarcona Road Lot#826<br>
-                          Apopka, Florida 32703<br><br>
+                          4376 Medallion Dr. Apt. 1104<br>
+                          Apopka, Florida 32808<br><br>
                           <strong>GET IN TOUCH</strong><br>
                           Email: johnwaynedinsmore@gmail.com<br>
                           Phone: +1 (208) 570 0319<br></p>

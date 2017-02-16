@@ -30,7 +30,7 @@ function check_if_in_view() {
 $window.on('scroll resize', check_if_in_view, console.log($window.height()));
 $window.trigger('scroll');
 
-//Progress wheels
+//These are the skills Progress wheels
 $('head style[type="text/css"]').attr('type', 'text/less');
 less.refreshStyles();
 // window.progress = function() {
