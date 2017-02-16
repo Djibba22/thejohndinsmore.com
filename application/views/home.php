@@ -329,9 +329,7 @@ TALENT -->
         </div>
     </div>
 </section>
-<!--
-VIDEO
--->
+This the black section with the fly shirt.
 <section class="mbr-section mbr-section--relative mbr-parallax-background" id="msg-box5-79" style="background-color: black;">
     <div class="mbr-overlay" style="opacity: 0.8; background-color: rgb(0, 0, 0);"></div>
     <div class="mbr-section__container mbr-section__container--isolated container">
@@ -339,7 +337,7 @@ VIDEO
             <div class="mbr-box mbr-box--fixed mbr-box--adapted">
                 <div class="mbr-box__magnet mbr-box__magnet--top-right mbr-section__left col-sm-6">
                     <figure class="mbr-figure mbr-figure--adapted mbr-figure--caption-inside-bottom mbr-figure--full-width">
-                      <img class="mbr-figure__img" src="public/assets/images/FlyShirt4.jpg">
+                      <img class="mbr-figure__img" src="public/assets/images/flyShirt4.jpg">
                     </figure>
                 </div>
                 <div class="mbr-box__magnet mbr-class-mbr-box__magnet--center-left col-sm-6 mbr-section__right">
@@ -359,24 +357,7 @@ VIDEO
         </div>
     </div>
 </section>
-<!-- <section class="mbr-box mbr-section mbr-section--relative mbr-section--fixed-size mbr-section--full-height mbr-section--bg-adapted mbr-after-navbar" id="header1-40" data-bg-video="https://www.youtube.com/watch?v=OCY74qlAs4U">
-    <div class="mbr-box__magnet mbr-box__magnet--sm-padding mbr-box__magnet--center-left">
-        <div class="mbr-overlay" style="opacity: 0.0; background-color: rgb(76, 105, 114);"></div>
-        <div class="mbr-box__container mbr-section__container container">
-            <div class="mbr-box mbr-box--stretched"><div class="mbr-box__magnet mbr-box__magnet--center-left">
-                <div class="row"><div class=" col-sm-6">
-                    <div class="mbr-hero animated fadeInUp">
-                    </div>
-                </div></div>
-            </div></div>
-        </div>
-        <div class="mbr-arrow mbr-arrow--floating text-center">
-            <div class="mbr-section__container container">
-                <a class="mbr-arrow__link" href="#features1-42"><i class="glyphicon glyphicon-menu-down"></i></a>
-            </div>
-        </div>
-    </div>
-</section> -->
+
 <!-- CONTACT FORM -->
 <section class="mbr-section mbr-section--relative mbr-section--fixed-size" id="form1-89" style="background-color: rgb(239, 239, 239);">
     <div class="mbr-section__container mbr-section__container--std-padding container">
