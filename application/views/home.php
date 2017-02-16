@@ -337,7 +337,7 @@ TALENT -->
             <div class="mbr-box mbr-box--fixed mbr-box--adapted">
                 <div class="mbr-box__magnet mbr-box__magnet--top-right mbr-section__left col-sm-6">
                     <figure class="mbr-figure mbr-figure--adapted mbr-figure--caption-inside-bottom mbr-figure--full-width">
-                      <img class="mbr-figure__img" src="public/assets/images/flyshirt4.jpg">
+                      <img class="mbr-figure__img" src="public/assets/images/Flyshirt4.jpg">
                     </figure>
                 </div>
                 <div class="mbr-box__magnet mbr-class-mbr-box__magnet--center-left col-sm-6 mbr-section__right">
